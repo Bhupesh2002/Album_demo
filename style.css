@@ -188,5 +188,20 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
+.photographs{
+    display: flex;
+    padding: 10px;
+}
+
+.photo-button button{
+    width: 40%;
+    background-color: #F1C40F;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    cursor: pointer;
+
+}
 
 
